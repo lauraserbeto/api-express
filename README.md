@@ -1,4 +1,4 @@
-# 🚀 API Express com Prisma ORM
+# API Express 
 
 ## Tecnologias Utilizadas
 
@@ -46,3 +46,4 @@ npm run dev
 A API estará disponível em:
 
 http://localhost:3001
+
